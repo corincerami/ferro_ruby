@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/chrisccerami/fe_ruby.svg)](https://travis-ci.org/chrisccerami/fe_ruby)
+
 # FeRuby
 
 ## What the hell is this?
