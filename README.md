@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/chrisccerami/fe_ruby.svg)](https://travis-ci.org/chrisccerami/fe_ruby)
+[![Build Status](https://travis-ci.org/chrisccerami/ferro_ruby.svg)](https://travis-ci.org/chrisccerami/ferro_ruby)
 
-# FeRuby
+# FerroRuby
 
 ## What the hell is this?
 
@@ -42,7 +42,7 @@ to begin the REPL.
 
 If you would like to contribute to this project (you poor thing), feel free to create a pull request. If you'd like to contact me, you can reach me at chrisccerami@gmail.com or on Twitter @chrisccerami.
 
-- Fork it ( https://github.com/chrisccerami/fe_ruby/fork )
+- Fork it ( https://github.com/chrisccerami/ferro_ruby/fork )
 - Create your feature branch (git checkout -b my-new-feature)
 - Commit your changes (git commit -am 'Add some feature')
 - Push to the branch (git push origin my-new-feature)
