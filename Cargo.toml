@@ -2,3 +2,6 @@
 name = "ferro_ruby"
 version = "0.1.0"
 authors = ["Chris C Cerami <chrisccerami@gmail.com>"]
+
+[dependencies]
+peg = "0.3.0"

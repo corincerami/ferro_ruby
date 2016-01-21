@@ -1,0 +1,20 @@
+use ferro_ruby::operator::Operator;
+
+#[pub]
+int -> i64
+  = [-]? [0-9]{,19} {?
+
+    let val = match_str.parse::<i64>().ok();
+
+    match val {
+      Some(x) => Ok(x as i64),
+      None => Err("Integer out of range"),
+    }
+  }
+
+#[pub]
+operator -> Operator
+  = [+-] {
+    let symbol = match_str.into();
+    Operator { symbol: symbol }
+  }
